@@ -33,14 +33,12 @@ zstyle ':prezto:load' pmodule \
   'utility' \
   'completion' \
   'prompt' \
-  'git' \
-  'archive' \
-  'history-substring-search' \
-  'macports' \
-  'osx' \
-  'perl' \
-  'syntax-highlighting' \
   'tmux'
+  'archive' \
+  'git' \
+  'history-substring-search' \
+  'screen' \
+  'syntax-highlighting'
 #
 # Editor
 #
