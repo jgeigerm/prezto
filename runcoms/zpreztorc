@@ -33,6 +33,7 @@ zstyle ':prezto:load' pmodule \
   'utility' \
   'completion' \
   'prompt' \
+<<<<<<< HEAD
   'git' \
   'archive' \
   'history-substring-search' \
@@ -41,6 +42,7 @@ zstyle ':prezto:load' pmodule \
   'perl' \
   'syntax-highlighting' \
   'tmux'
+
 #
 # Editor
 #
