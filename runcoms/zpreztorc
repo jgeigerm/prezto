@@ -117,7 +117,7 @@ zstyle ':prezto:module:prompt' theme 'sorin'
 
 # Set syntax highlighters.
 # By default, only the main highlighter is enabled.
-# zstyle ':prezto:module:syntax-highlighting' highlighters \
+zstyle ':prezto:module:syntax-highlighting' highlighters \
    'main' \
    'brackets' \
    'pattern' \
@@ -125,7 +125,7 @@ zstyle ':prezto:module:prompt' theme 'sorin'
    'root'
 
 # Set syntax highlighting styles.
-# zstyle ':prezto:module:syntax-highlighting' styles \
+zstyle ':prezto:module:syntax-highlighting' styles \
    'builtin' 'bg=blue' \
    'command' 'bg=blue' \
    'function' 'bg=blue'
