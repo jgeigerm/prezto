@@ -37,8 +37,8 @@ zstyle ':prezto:load' pmodule \
   'git' \
   'history-substring-search' \
   'screen' \
-  'syntax-highlighting'
-
+  'syntax-highlighting' \
+  'tmux'
 #
 # Editor
 #
