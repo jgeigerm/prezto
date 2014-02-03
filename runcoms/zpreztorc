@@ -33,20 +33,12 @@ zstyle ':prezto:load' pmodule \
   'utility' \
   'completion' \
   'prompt' \
-<<<<<<< HEAD
-  'tmux'
-=======
-  'tmux' \
->>>>>>> 0d5b4327f5315185fac71487f322aee51a299f5e
   'archive' \
   'git' \
   'history-substring-search' \
   'screen' \
   'syntax-highlighting'
-<<<<<<< HEAD
 
-=======
->>>>>>> 0d5b4327f5315185fac71487f322aee51a299f5e
 #
 # Editor
 #
