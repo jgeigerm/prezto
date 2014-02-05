@@ -19,3 +19,4 @@ alias visc='/Users/cheddar/viscpt'
 alias lc='wc -l'
 alias cls='clear'
 alias ll="ls -lhSp | awk '{print \$5\"  \t\"substr(\$0, index(\$0,\$9))}' | tail -n +2"
+~/.zprezto/runcoms/tmuxonstart
